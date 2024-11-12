@@ -15,7 +15,7 @@ This is just a placeholder for the actual content.
 
 # GitHub Codespaces ♥️ Jupyter Notebooks
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/security-ai-research/tree/user%2Fanmatako%2Fsite-updates?quickstart=1&devcontainer_path=.devcontainer%2Fhellojupyter%2Fdevcontainer.json)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/anmatako/hello-jupyter?quickstart=1)
 
 Once the Codespace starts run the following command:
 ```bash
