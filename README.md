@@ -19,7 +19,7 @@ This is just a placeholder for the actual content.
 
 Once the Codespace starts run the following command:
 ```bash
-code initiatives/community/hellojupyter/notebooks/matplotlib.ipynb
+code notebooks/matplotlib.ipynb
 ```
 
 Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
